@@ -18,3 +18,6 @@ In these webpages,display all the live news,topheadlines ,images,news title,sour
 
 ## source description details:  https://newsapi.org/v2/sources {authorization/verification done}
 ### Everything:              https://newsapi.org/v2/everything     
+ 
+ # LIVE URL
+ https://mallikaarora.github.io/assessment-project/
